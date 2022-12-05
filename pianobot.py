@@ -32,5 +32,6 @@ while keyboard.is_pressed ("q") == False: #wiederhole solange q nicht gedrückt 
     if pyautogui.pixel (xxx, yyy) [2] == 0:    #dito wie oben für Spalte 3
         click (xxx, yyy) 
     if pyautogui.pixel (xxx, yyy) [2] == 0:    #dito wie oben für Spalte 4
-        click (xxx, yyy) 
+        click (xxx, yyy)
+            
     
